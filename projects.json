@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://projectone-kappa.vercel.app",
+      "git": "https://github.com/vfuertez/ProjectOne",
+      "image": "https://i.imgur.com/l1tgsT6.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://project-2-abes.onrender.com/list",
+      "git": "https://github.com/vfuertez/project-2",
+      "image": "https://i.imgur.com/AszT9SB.png"
+    }
+  ]
